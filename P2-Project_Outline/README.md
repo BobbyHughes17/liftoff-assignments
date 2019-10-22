@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This is going to be an initial website built, with a blog and photo gallery.  I will also be creating an app
+where the user can go in and edit text, colors, and photo's on the website. 
 ### Features
-Include Features here
+User login - users will be able to create accounts create blog posts
+Create post - users will be able to create posts.
+delete posts - users will be able to delete posts
+edit posts - users will be able to edit old posts made by them.
+pictures pop out into preview window.
 ### Technologies
-Include Technologies here
+Java
+Javascript
+Bootstrap
+Springboot
+Gradle
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+I want to be able to get better with CSS, HTML, Bootstrap, and Javascript.  I'd like to learn how to build an application that
+is downloaded, to edit the website, vs through a web app.
 ### Project Tracker
-Link to your Trello board here
+https://github.com/BobbyHughes17/Photo.git
