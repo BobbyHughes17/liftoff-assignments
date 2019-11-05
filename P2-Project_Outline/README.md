@@ -7,14 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This is going to be an initial website built, with a blog and photo gallery.  I will also be creating an app
-where the user can go in and edit text, colors, and photo's on the website. 
+This is going to be a webapp that compares names Dates, and room types, and generates a list of the discrepancies 
 ### Features
 User login - users will be able to create accounts create blog posts
-Create post - users will be able to create posts.
-delete posts - users will be able to delete posts
-edit posts - users will be able to edit old posts made by them.
-pictures pop out into preview window.
+upload lists - I plan on tryign to make this work with Excel and Csv
+Seperate report pulls by User
+Save reports by date
+Allow user to compare two different lists from any dates, always useing the newer one as the change type
+allow for export to Excel
 ### Technologies
 Java
 Javascript
@@ -23,7 +23,6 @@ Springboot
 Gradle
 MySQL
 ### What I'll Have to Learn
-I want to be able to get better with CSS, HTML, Bootstrap, and Javascript.  I'd like to learn how to build an application that
-is downloaded, to edit the website, vs through a web app.
+I will have to learn how to pull lists from a document, and read the contents then pull that into a data base, and be able to create a new report in excel and export the data from the database.
 ### Project Tracker
-https://github.com/BobbyHughes17/Photo.git
+https://github.com/BobbyHughes17/BigMacro.git
